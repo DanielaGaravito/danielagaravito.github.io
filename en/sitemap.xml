@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://danielagaravito.github.io/en/categories/</loc>
+    <loc>https://danielagaravito.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://danielagaravito.github.io/categories/"
+                href="https://danielagaravito.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://danielagaravito.github.io/en/categories/"
+                href="https://danielagaravito.github.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://danielagaravito.github.io/en/</loc>
+    <loc>https://danielagaravito.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://danielagaravito.github.io/"
+                href="https://danielagaravito.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://danielagaravito.github.io/en/"
+                href="https://danielagaravito.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>http://danielagaravito.github.io/en/series/</loc>
+    <loc>https://danielagaravito.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://danielagaravito.github.io/series/"
+                href="https://danielagaravito.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://danielagaravito.github.io/en/series/"
+                href="https://danielagaravito.github.io/en/series/"
                 />
   </url>
   
   <url>
-    <loc>http://danielagaravito.github.io/en/tags/</loc>
+    <loc>https://danielagaravito.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://danielagaravito.github.io/tags/"
+                href="https://danielagaravito.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://danielagaravito.github.io/en/tags/"
+                href="https://danielagaravito.github.io/en/tags/"
                 />
   </url>
   
