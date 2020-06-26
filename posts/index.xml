@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Daniela Garavito Coronado</title>
+    <link>http://danielagaravito.github.io/posts/</link>
+    <description>Recent content in Posts on Daniela Garavito Coronado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://danielagaravito.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bienvenue dans cet espace d’opinion</title>
+      <link>http://danielagaravito.github.io/posts/00-mission/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://danielagaravito.github.io/posts/00-mission/</guid>
+      <description>Je me suis inspirée des pratiques collaboratives françaises pour développer une nouvelle notion Les Écosystèmes Fluides. Cela vous permettra de comprendre l&amp;rsquo;influence de ces pratiques dans mon projet professionnel.
+Lire plus &amp;raquo;</description>
+    </item>
+    
+    <item>
+      <title>Écosystèmes Fluides</title>
+      <link>http://danielagaravito.github.io/posts/01-ecosystem-fluide/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://danielagaravito.github.io/posts/01-ecosystem-fluide/</guid>
+      <description>Une des plus belles découvertes que j’ai faite en France est l’existence des Écosystèmes Fluides : Une nouvelle forme de vie et de travail que j’aimerais continuer à explorer.
+C’est une métaphore que j’ai créée pour décrire un lieu dans lequel les acteurs de divers profils et natures interagissent, participent et s’engagent sur des projets/activités/initiatives sociales en véhiculant des valeurs d’échange et de partage. Cette dynamique est possible grâce aux relations de collaboration, création et innovation élaborées dans un cadre ouvert et hybride.</description>
+    </item>
+    
+    <item>
+      <title>La collaboration dans la diversité de profils</title>
+      <link>http://danielagaravito.github.io/posts/02-collaboration/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://danielagaravito.github.io/posts/02-collaboration/</guid>
+      <description>Un Écosystème Fluide est caractérisé par un espace physique décloisonné, démocratisé et ouvert favorisant l’interaction : une série d’échanges qui mènent à l’action. Les personnes de tous les secteurs de la société sont invitées à participer aux animations, activités et événements de ces écosystèmes pour catalyser des projets et des initiatives que normalement ne seraient pas envisageables dans un espace de travail classique. Ces activités favorisent les échanges, la rencontre hasardeuses et non-linéaires de profils très variés = la clé pour développer la créativité et l’innovation.</description>
+    </item>
+    
+    <item>
+      <title>Evoluer des passions aux compétences: Les jeunes générations prospèrent dans les écosystèmes fluides</title>
+      <link>http://danielagaravito.github.io/posts/03-generations/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://danielagaravito.github.io/posts/03-generations/</guid>
+      <description>L’une des questions qui fait peur dans la vie est « quelle est votre passion ? » Je ne sais pas quel est l&amp;rsquo;âge idéal pour découvrir nos passions mais cette question pourrait poser des difficultés chez les jeunes privés d’expérience professionnelle ou sans idée concrète de projet de vie. Avoir la possibilité de découvrir les modes de travail et les pratiques pour construire les communautés du futur ouvre la porte pour que les jeunes puissent découvrir ce qui les intéresse, ce qui les motive.</description>
+    </item>
+    
+    <item>
+      <title>Transformer une Nation : Ecosystèmes Fluides en Colombie</title>
+      <link>http://danielagaravito.github.io/posts/04-colombie/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://danielagaravito.github.io/posts/04-colombie/</guid>
+      <description>Grâce à participation active et mobilisation dans la société Française, les Écosystèmes Fluides ont vu le succès dans le pays. Les tiers-lieux, par exemple, ont été multipliés par 6 en 3 ans. Les freelance, les télétravailleurs et les jeunes start-ups sont les usagers les plus fréquents de ces lieux d’innovation à Paris. L’Occitanie, avec une centaine de lieux, se revendique seconde région des tiers lieux en France La Gazette des Communes.</description>
+    </item>
+    
+  </channel>
+</rss>
