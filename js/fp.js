@@ -24,5 +24,8 @@ $('#fullpage').fullpage({
   scrollingSpeed: 900,
   anchors: ['section1', 'section2', 'section3'],
   menu: '#menu',
-  scrollOverflow: true, fitToSection: true
+  scrollOverflow: true, fitToSection: true,
+  afterSlideLoad: function(anchorLink, index, slideAnchor, slideIndex) {
+    ga('send', 'pageview', { 'page': anchorLink, 'title': slideAnchor });
+}
 });
